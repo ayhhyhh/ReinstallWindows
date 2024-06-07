@@ -33,11 +33,19 @@ stay blank
 ## 常用软件
 
 [HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator)
+
 [StartAllBack](https://masuit.com/1751?kw=startallback&t=0HMVIG96CMQ8J)
+
 [7-Zip](https://7-zip.org/)
+
 [Dism++](https://github.com/Chuyu-Team/Dism-Multi-language/releases/)
+
 [Git](https://git-scm.com/downloads)
+
 [Visual Studio Code](https://code.visualstudio.com/#alt-downloads) System Installer
+
 [Sumatra PDF reader](https://www.sumatrapdfreader.org/download-free-pdf-viewer)
+
 [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)
+
 [Obsidian](https://obsidian.md/download)
